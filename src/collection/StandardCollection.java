@@ -10,10 +10,5 @@ public interface StandardCollection {
      * Clear.
      */
     void clear();
-    
-    /**
-     * Sort.
-     */
-    void sort();
 
 }
