@@ -1,4 +1,4 @@
-[{"name":"Labwork1","coordinates":{"x":5,"y":3},"minimalPoint":10,"personalQualitiesMinimum":10,"personalQualitiesMaximum":12,"difficulty":"HOPELESS","discipline":"BIOLOGY"
-  },{"name":"Labwork2","coordinates":{"x":2,"y":1},"minimalPoint":100,"personalQualitiesMinimum":12,"personalQualitiesMaximum":14,"difficulty":"INSANE","discipline":"CHEMISTRY"
-  },{"name":"Labwork3","coordinates":{"x":2,"y":3},"minimalPoint":50,"personalQualitiesMinimum":14,"personalQualitiesMaximum":16,"difficulty":"HARD","discipline":"PHYSICS"
+[{"name":"Labwork1","coordinates":{"x":5,"y":3},"minimalPoint":10,"personalQualitiesMinimum":10,"personalQualitiesMaximum":12,"difficulty":"HOPELESS","discipline":"BIOLOGY", "practiceHours": 1233242
+  },{"name":"Labwork2","coordinates":{"x":2,"y":1},"minimalPoint":100,"personalQualitiesMinimum":12,"personalQualitiesMaximum":14,"difficulty":"INSANE","discipline":"CHEMISTRY", "practiceHours": 12323
+  },{"name":"Labwork3","coordinates":{"x":2,"y":3},"minimalPoint":50,"personalQualitiesMinimum":14,"personalQualitiesMaximum":16,"difficulty":"HARD","discipline":"PHYSICS", "practiceHours": 12322
 }]
